@@ -1,0 +1,11 @@
+.DS_Store
+.eslintcache
+*.sublime-project
+*.sublime-workspace
+node_modules
+npm-debug.log
+build/*
+!build/index.html
+nginx/log
+nginx/ssl
+.idea
